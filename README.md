@@ -4,7 +4,7 @@ A creativity-driven generative memecoin powered by community imagination
 A creativity-driven generative memecoin.
 
 ## Whitepaper
-[Download Shitgen Whitepaper](Shitgen_Whitepaper.pdf)
+[Download Shitgen Whitepaper](Shitgen_Whitepaper_Clean.pdf)
 
 ## Vision
 Chaos-powered creativity. Culture-driven growth.
