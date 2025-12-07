@@ -11,4 +11,4 @@ Chaos-powered creativity. Culture-driven growth.
 
 ## Socials
 Twitter: https://twitter.com/shitgentoken
-Mirror: (coming soon)
+Mirror: (shitgentoken)
